@@ -1,6 +1,6 @@
-# BBMS
+# BBDMS
 
 
 
-It is a BLOOD BANK MANAGEMENT SYSTEM made using PHP,HTML,CSS and MYSQL for Database.
+It is a BLOOD BANK AND DONOR MANAGEMENT SYSTEM made using PHP,HTML,CSS and MYSQL for Database.
 
